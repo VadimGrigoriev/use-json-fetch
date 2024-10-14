@@ -1,5 +1,5 @@
 export const API_URLS = {
-  data: 'http://localhost:7070/data',
-  error: 'http://localhost:7070/error',
-  loading: 'http://localhost:7070/loading',
+  data: 'https://use-json-fetch-backend-uad1.onrender.com/data',
+  error: 'https://use-json-fetch-backend-uad1.onrender.com/error',
+  loading: 'https://use-json-fetch-backend-uad1.onrender.com/loading',
 };
